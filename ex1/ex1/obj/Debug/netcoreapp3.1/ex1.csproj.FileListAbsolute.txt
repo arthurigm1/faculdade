@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\source\repos\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.exe
+C:\Users\T-GAMER\source\repos\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.deps.json
+C:\Users\T-GAMER\source\repos\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.dev.json
+C:\Users\T-GAMER\source\repos\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.dll
+C:\Users\T-GAMER\source\repos\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.pdb
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.dll
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.pdb
+C:\Users\T-GAMER\source\repos\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\bin\Debug\netcoreapp3.1\atividade 3 exercicio 10.exe
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\bin\Debug\netcoreapp3.1\atividade 3 exercicio 10.deps.json
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\bin\Debug\netcoreapp3.1\atividade 3 exercicio 10.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\bin\Debug\netcoreapp3.1\atividade 3 exercicio 10.runtimeconfig.dev.json
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\bin\Debug\netcoreapp3.1\atividade 3 exercicio 10.dll
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\bin\Debug\netcoreapp3.1\atividade 3 exercicio 10.pdb
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\obj\Debug\netcoreapp3.1\atividade 3 exercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\obj\Debug\netcoreapp3.1\atividade 3 exercicio 10.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\obj\Debug\netcoreapp3.1\atividade 3 exercicio 10.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\obj\Debug\netcoreapp3.1\atividade 3 exercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\obj\Debug\netcoreapp3.1\atividade 3 exercicio 10.dll
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\obj\Debug\netcoreapp3.1\atividade 3 exercicio 10.pdb
+C:\Users\T-GAMER\source\repos\atividade 3 exercicio 10\atividade 3 exercicio 10\obj\Debug\netcoreapp3.1\atividade 3 exercicio 10.genruntimeconfig.cache

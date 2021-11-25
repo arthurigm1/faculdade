@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.exe
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.deps.json
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.runtimeconfig.dev.json
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.dll
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.pdb
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.dll
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.pdb
+C:\Users\T-GAMER\source\repos\ATIVIDADE 3 EXERCICIO 5\ATIVIDADE 3 EXERCICIO 5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 EXERCICIO 5.genruntimeconfig.cache

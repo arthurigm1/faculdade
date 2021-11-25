@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\bin\Debug\netcoreapp3.1\atividade10.exe
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\bin\Debug\netcoreapp3.1\atividade10.deps.json
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\bin\Debug\netcoreapp3.1\atividade10.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\bin\Debug\netcoreapp3.1\atividade10.runtimeconfig.dev.json
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\bin\Debug\netcoreapp3.1\atividade10.dll
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\bin\Debug\netcoreapp3.1\atividade10.pdb
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.dll
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.pdb
+C:\Users\T-GAMER\source\repos\atividade10\atividade10\obj\Debug\netcoreapp3.1\atividade10.genruntimeconfig.cache

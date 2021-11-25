@@ -1,0 +1,13 @@
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\bin\Debug\netcoreapp3.1\PROVA_EXERCICIO3.exe
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\bin\Debug\netcoreapp3.1\PROVA_EXERCICIO3.deps.json
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\bin\Debug\netcoreapp3.1\PROVA_EXERCICIO3.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\bin\Debug\netcoreapp3.1\PROVA_EXERCICIO3.runtimeconfig.dev.json
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\bin\Debug\netcoreapp3.1\PROVA_EXERCICIO3.dll
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\bin\Debug\netcoreapp3.1\PROVA_EXERCICIO3.pdb
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\obj\Debug\netcoreapp3.1\PROVA_EXERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\obj\Debug\netcoreapp3.1\PROVA_EXERCICIO3.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\obj\Debug\netcoreapp3.1\PROVA_EXERCICIO3.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\obj\Debug\netcoreapp3.1\PROVA_EXERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\obj\Debug\netcoreapp3.1\PROVA_EXERCICIO3.dll
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\obj\Debug\netcoreapp3.1\PROVA_EXERCICIO3.pdb
+C:\Users\T-GAMER\source\repos\PROVA_EXERCICIO3\PROVA_EXERCICIO3\obj\Debug\netcoreapp3.1\PROVA_EXERCICIO3.genruntimeconfig.cache
